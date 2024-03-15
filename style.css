@@ -1,0 +1,103 @@
+
+
+
+
+.face{
+    height:350px;
+    width:350px;
+    background-color: lightcoral;
+    border-radius: 50%;
+    margin-top: -180px;
+    margin-left: 580px;
+    position: absolute;
+    border: 2px solid black;
+   
+}
+.eyes1{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 90px;
+}
+
+
+.leye{
+    height: 60px;
+    width: 60px;
+    background: white;
+    border-radius: 50%;
+}
+
+.reye{
+    height: 60px;
+    width: 60px;
+    background: white;
+    border-radius: 50%;
+}
+.leye2{
+    height: 30px;
+    width: 30px;
+    background: black;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.reye2{
+    height: 30px;
+    width: 30px;
+    background: black;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 20px;
+}
+.nose{
+    display: flex;
+    justify-content: space-evenly;
+
+    height: 40px;
+    width: 100px;
+    background: brown;
+    border-radius: 50px;
+    border: 2px solid black;
+    margin: auto;
+    margin-top: 70px;
+}
+.lnose{
+    
+    height: 30px;
+    width: 30px;
+    background: black;
+    border-radius: 50%;
+    margin-top: 5px;
+}
+.rnose{
+    height: 30px;
+    width: 30px;
+    background: black;
+    border-radius: 50%;
+    margin-top: 5px;
+}
+.ear{
+    display: flex;
+    justify-content: space-evenly;
+    width:450px;
+    margin: auto;
+    margin-top: 150px;
+   
+    
+} 
+.lear{
+    height:200px;
+    width:100px;
+    border-radius: 50px;
+    background: rgb(240, 90, 90);
+    border: 2px solid black;
+   
+}
+.rear{
+    height:200px;
+    width:100px;
+    border-radius: 50px;
+    background: rgb(240, 90, 90);
+    border: 2px solid black;
+}
